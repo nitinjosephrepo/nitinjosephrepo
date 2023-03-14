@@ -2,7 +2,9 @@
 
 ## About Me
 
-I am Nitin Joseph. A Digital Strategist with a naturally curious streak, I am a self-taught ML, NLP (Natural Language programming) & python developer focusing on Marketing, Ecommerce, Retail & Analytics. I can be contacted at nitin@verrocchioworkshop.com
+I am Nitin Joseph. A Digital Strategist with a naturally curious streak, I am a self-taught ML, NLP (Natural Language programming) & python developer focusing on Marketing, Ecommerce, Retail & Analytics. I can be contacted at 
+
+nitin@verrocchioworkshop.com
 
 I have degrees in Quantitative disciplines and Liberal arts. I embrace STEAM mindset :raised_hands:
 
