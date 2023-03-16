@@ -30,7 +30,7 @@ We use Random Forest Classifier to grade factors that have the most impact on ch
 
 **2. Facebook Prophet to forecast Demand & quantify the affect of seasonality, weekends and holidays**
 
-Prophet is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects. It works best with time series that have strong seasonal effects and several seasons of historical data. Prophet is robust to missing data and shifts in the trend, and typically handles outliers well. Checkout the [Project](https://github.com/nitinjosephrepo/Using-Prophet-to-Forecast-Bikeshare-Demand)
+Prophet’s advantage are — an analyst-in-the-loop forecaster with human-interpretable parameters, easily applied to business analytics use cases. It's however getting long in the tooth and more recent developments with models like Neural Prophet & Nixtla/statsforecast are more appealing by the day.  Checkout the [Project](https://github.com/nitinjosephrepo/Using-Prophet-to-Forecast-Bikeshare-Demand)
 
 **3. Understand consumer preference with Conjoint analysis**
 
