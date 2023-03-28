@@ -14,7 +14,7 @@ Measuring the impact of Digital media is often a straight shoot, but OOH marketi
 
 Then things converged, Statistics, coding & domain expertise. Borderline alchemy and a powerful alembic
 
-## Insights are cute, out-of-sights are sexy! 
+## Insights are cute, out-of-sights are s**y! 
 
 Buzz around ML generally veers from one extreme to another, a magic formula; throw at it a bunch of data and hope it gives you what you want. The other reduces ML models to their outcomes - prediction & classification. Later a good summarization but misses the essence. 
 
