@@ -60,11 +60,13 @@ Difficult problem to solve but thanks to Bayesian statistic this helps us get a 
 
 ## NLP For SEO, Content Optimization & Customer insight
 
-**1. Content Similarity checker.** 
+**1. Movement is Topic clusters (Period A v Period B) from Search Console Data** 
+
+https://github.com/nitinjosephrepo/SEO-semantic-clustering/blob/main/SEO_opportunity_quadrant_with_Keyword_Clustering.ipynb
 
 Most content similarity checkers available online use TextRank/Frequency checker or some levenshtein distance to measure the distance between two strings. In my project, I utilize Goose3 to scrape all URLs that are inputted as a list and provide similarity scores from BERT using Hugging Face transformer. BERT measures semantic relationship. Checkout the [Project](https://github.com/nitinjosephrepo/Using-NLP-Models-To-Improve-SEO)
 
-**2. Auto Summarizer with Google T5.**
+**3. Auto Summarizer with Google T5.**
 
 This is a project that I built to provide a robust summarizer for Meta descriptions using Google T5. Plugin in your Url's and it will output meta descriptions. Google T5 is a generative summarizer. End project use was to auto summarize Meta description and consumer reviews. 
 Checkout the [Project](https://github.com/nitinjosephrepo/Abstractive-Summarization-With-GoogleT5)
